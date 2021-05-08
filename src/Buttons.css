@@ -1,0 +1,21 @@
+.button {
+    -fx-background-color: #191a1a;
+    -fx-font-weight: bold;
+    -fx-border-color: Black;
+    -fx-border-width: 2px;
+    -fx-text-fill: #f2f2f3;
+    -fx-background-insets: 0;
+}
+.root {
+    -fx-background-color: #191a1a;
+}
+.Text {
+    -fx-text-fill: White;
+    -fx-font-weight: bold;
+}
+.button:hover {
+    -fx-background-color: Grey ;
+}
+
+.my-rect:hover { -fx-fill:  #323334; }
+.main { -fx-fill:   #252627; }
